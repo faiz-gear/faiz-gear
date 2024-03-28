@@ -23,7 +23,7 @@
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/react.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/vuedotjs.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/threedotjs.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/nestdotjs.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/nestjs.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/nextdotjs.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/docker.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/git.svg"></code>
