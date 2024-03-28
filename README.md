@@ -1,6 +1,4 @@
 ### Hey 👋, I'm Faiz Gear.
-<br />
-<br />
 
 - I am a **Web developer👨🏻‍💻** 
 - I like to use a variety of useful **computer software** and build  **beautiful web site.**
@@ -16,6 +14,7 @@
 - 💬 If you have any questions, **just ask me**.
 
 **Languages and Tools:**  
+</br>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/html5.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/css3.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/javascript.svg"></code>
@@ -30,4 +29,5 @@
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/mysql.svg"></code>
 <img align="right"  src="https://github-readme-stats.vercel.app/api?username=faiz-gear&count_private=true&show_icons=true" alt="FaizGear" />
 
+</br>
 **If you like this readme file, please give me star! ❤️**
