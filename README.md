@@ -14,8 +14,6 @@
 - 💬 If you have any questions, **just ask me**.
 
 **Languages and Tools:**  
-
-</br>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/html5.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/css3.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/javascript.svg"></code>
@@ -29,8 +27,8 @@
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/git.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/mysql.svg"></code>
 
-</br>
+<br />
 <img src="https://github-readme-stats.vercel.app/api?username=faiz-gear&count_private=true&show_icons=true" alt="FaizGear" />
 
-</br>
+<br />
 **If you like this readme file, please give me star! ❤️**
