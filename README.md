@@ -1,15 +1,15 @@
 ### Hey 👋, I'm Faiz Gear.
 
-- I am a **Web developer👨🏻‍💻** 
+- I am a **Web developer👨🏻‍💻.** 
 - I like to use a variety of useful **computer software** and build  **beautiful web site.**
-- I used to dream of being a docter.But **the reality made me have to learn a technology💻,**
+- I used to dream of being a docter.But **the reality made me have to learn a technology💻.**
 - I'm proud to say that **I can succesfully center a element with css😋**.
 
 **Talking about Personal Stuffs:**
 - 👨‍🏛 I am currently a front-end engineer in manufacturing industry.
-- 💻 I majored in e-commerce at university,  but i'm very lucky that i chose to **become a programmer**, because it allows me to constantly contact new things and new technologies, and feel the **charm of internet technology**
+- 💻 I majored in e-commerce at university,  but i'm very lucky that i chose to **become a programmer**, because it allows me to constantly contact new things and new technologies, and feel the **charm of internet technology.**
 - 🌱 I'm currently learning **Backend and Webgl**. 
-- ❤️ In my spare time, I like to play ball games, watch movies and listen to music
+- ❤️ In my spare time, I like to play ball games, watch movies and listen to music.
 - 🥰**Fortunately, I think I'm on a career path that I love ❤️**
 - 💬 If you have any questions, **just ask me**.
 
