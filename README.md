@@ -7,7 +7,7 @@
 
 **Talking about Personal Stuffs:**
 - 👨‍🏛 I am currently a front-end engineer in manufacturing industry.
-- 💻 I majored in e-commerce at university,  not a programmer with a professional background.
+- 💻 I majored in e-commerce at university,  but i'm very lucky that i chose to **become a programmer**, because it allows me to constantly contact new things and new technologies, and feel the **charm of internet technology**
 - 🌱 I'm currently learning **Backend and Webgl**. 
 - ❤️ In my spare time, I like to play ball games, watch movies and listen to music
 - 🥰**Fortunately, I think I'm on a career path that I love ❤️**
