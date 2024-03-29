@@ -4,6 +4,14 @@
 - I like to use a variety of useful **computer software** and build  **beautiful web site.**
 - I used to dream of being a docter.But **the reality made me have to learn a technology💻.**
 - I'm proud to say that **I can succesfully center a element with css😋**.
+```
+#faiz-gear { 
+  position: earth; 
+  height: 183cm; 
+  display: boy; 
+  color: yellow 
+}
+```
 
 **Talking about Personal Stuffs:**
 - 👨‍🏛 I am currently a front-end engineer in manufacturing industry.
