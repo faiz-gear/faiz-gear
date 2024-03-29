@@ -3,7 +3,7 @@
 - I am a **Web developer👨🏻‍💻.** 
 - I like to use a variety of useful **computer software** and build  **beautiful web site.**
 - I used to dream of being a docter.But **the reality made me have to learn a technology💻.**
-- I'm proud to say that **I can succesfully center a element with css😋**.
+- I'm proud to say that **I can succesfully center a element with css😋**.please look at the code below;
 ```
 #faiz-gear { 
   position: earth; 
@@ -12,7 +12,7 @@
   color: yellow 
 }
 ```
-
+Haha, just kidding~ 
 **Talking about Personal Stuffs:**
 - 👨‍🏛 I am currently a front-end engineer in manufacturing industry.
 - 💻 I majored in e-commerce at university,  but i'm very lucky that i chose to **become a programmer**, because it allows me to constantly contact new things and new technologies, and feel the **charm of internet technology.**
