@@ -30,4 +30,3 @@
 <br />
 <img src="https://github-readme-stats.vercel.app/api?username=faiz-gear&count_private=true&show_icons=true" alt="FaizGear" />
 
-**If you like this readme file, please give me star! ❤️**
