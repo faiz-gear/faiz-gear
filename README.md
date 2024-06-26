@@ -1,8 +1,8 @@
-### Hey 👋, I'm Faiz Gear.
+### Hey 👋, I'm Lyle Lu.
 
 - I am a **Web developer👨🏻‍💻.** 
 - I like to use a variety of useful **computer software** and build  **beautiful web site.**
-- I used to dream of being a docter.But **the reality made me have to learn a technology💻.**
+- I used to dream of being a docter but **the reality made me have to learn a technology💻.**
 - I'm proud to say that **I can succesfully center a element with css😋**.
 
 **Talking about Personal Stuffs:**
@@ -10,7 +10,7 @@
 - 💻 I majored in e-commerce at university,  but i'm very lucky that i chose to **become a programmer**, because it allows me to constantly contact new things and new technologies, and feel the **charm of internet technology.**
 - 🥰**Fortunately, I think I'm on a career path that I love ❤️**
 - 🌱 I'm currently enthusiastic about **Backend and Webgl**. 
-- ❤️ In my spare time, I like to play ball games, watch movies and listen to music.
+- ❤️ In my spare time, I like playing ball games, watching movies and listening music.
 
 **Languages and Tools:**  
 <br />
