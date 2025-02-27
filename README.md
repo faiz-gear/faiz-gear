@@ -9,7 +9,7 @@
 - 👨‍🏛 I am currently a front-end engineer in manufacturing industry.
 - 💻 I majored in e-commerce at university,  but i'm very lucky that i chose to **become a programmer**, because it allows me to constantly contact new things and new technologies, and feel the **charm of internet technology.**
 - 🥰**Fortunately, I think I'm on a career path that I love ❤️**
-- 🌱 I'm currently enthusiastic about **AI**. 
+- 🌱 I'm currently enthusiastic about **AI**，**LLM**, *RAG** and **Agent**, . 
 - ❤️ In my spare time, I like playing ball games, watching movies and listening music.
 
 **Languages and Tools:**  
