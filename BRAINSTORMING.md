@@ -20,3 +20,6 @@
 ## 3.AI
 ### 调用Dify中编排的AI Agents、Workflow的应用（客户端-> MCP Client ->  MCP Server -> Dify）
 ### 基于费曼学习法生成文章大纲、内容（必要时配备mermaid图）的AI agent, 只需要提供一个文档地址提供上下文（使用cursor）
+### sequantial-thinking+context7+mcp-feedback-enhance+cursor开发范式
+### n8n搭建工作流自动收集hacker-news关于AI的新闻并发布到邮箱的工作流
+### cursor生成n8n工作流
