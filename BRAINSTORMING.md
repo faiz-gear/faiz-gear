@@ -23,3 +23,4 @@
 ### sequantial-thinking+context7+mcp-feedback-enhance+cursor开发范式
 ### n8n搭建工作流自动收集hacker-news关于AI的新闻并发布到邮箱的工作流
 ### cursor生成n8n工作流
+### n8n实现输入一个文档链接，生成md文档并调用notion api保存到博客中
