@@ -24,3 +24,4 @@
 ### n8n搭建工作流自动收集hacker-news关于AI的新闻并发布到邮箱的工作流
 ### cursor生成n8n工作流
 ### n8n实现输入一个文档链接，生成md文档并调用notion api保存到博客中
+### n8n随机菜谱推送（集成langfuse）
